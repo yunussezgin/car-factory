@@ -4,8 +4,7 @@ public class Hatchback implements Car {
 
 	@Override
 	public String getType() {
-		// TODO Auto-generated method stub
-		return null;
+		return "Hatchback Car";
 	}
 
 }
