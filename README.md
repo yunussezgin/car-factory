@@ -14,7 +14,7 @@ Technologies: Java 8 and Spring Boot 2.3.5
 - Sedan.java
 
 #### Rest Controller Class:
-- CarController
+- CarController.java
 
 ### Test Results
 ![image](https://github.com/yunussezgin/car-factory/blob/master/src/main/resources/CarFactoryTest.JPG?raw=true)
