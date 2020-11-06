@@ -7,7 +7,7 @@
 - Car.java
 
 
-#### Car Model Classes:
+#### Car Model Class:
 - Cabrio.java
 - Hatchback.java
 - Sedan.java
