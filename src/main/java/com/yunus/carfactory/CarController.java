@@ -10,12 +10,12 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class CarsController {
+public class CarController {
 
 	private final Map<String, Car> carMap = new HashMap<>();
 
 	@Autowired
-	public CarsController(List<Car> carList) {
+	public CarController(List<Car> carList) {
 		for (Car car : carList) {
 			carMap.put(car.getType().toLowerCase(), car);
 		}
