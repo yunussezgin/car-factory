@@ -2,8 +2,7 @@
 
 #### Service Postman Collection: https://www.postman.com/collections/8b6716820e7f2c75b1e7
 
-##### Technologies: Java 8 and Spring Boot 2.3.5
-
+#### Technologies: Java 8 and Spring Boot 2.3.5
 
 #### Car Interface:
 - Car.java
@@ -15,6 +14,9 @@
 
 #### Rest Controller Class:
 - CarController.java
+
+#### Test Class:
+- CarfactoryApplicationTests.java
 
 ### Test Results
 ![image](https://github.com/yunussezgin/car-factory/blob/master/src/main/resources/CarFactoryTest.JPG?raw=true)
